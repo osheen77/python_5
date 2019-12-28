@@ -4,7 +4,7 @@ Created on Wed Dec 25 14:46:46 2019
 
 @author: Osheen
 """
-
+#checking to modify
 #CHAPTER 5
 
 #practice
